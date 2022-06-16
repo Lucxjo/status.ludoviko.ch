@@ -5,10 +5,16 @@ repo: status.ludoviko.ch # The name of this repository
 sites:
   - name: Ludoviko Website
     url: https://ludoviko.ch
+    icon: https://ludoviko.ch/RingRingTechSupport.ico
   - name: VannerBasta Website
     url: https://vannerba.st
+    icon: https://www.vannerba.st/favicon.png
   - name: openPronouns Website
     url: https://opronouns.net
+    icon: https://opronouns.net/oPronouns-logo.svg
+    
+assignees:
+  - Lucxjo
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
