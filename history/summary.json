@@ -4,18 +4,19 @@
     "url": "https://ludoviko.ch",
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
-    "time": 613,
-    "timeDay": 706,
-    "timeWeek": 613,
-    "timeMonth": 613,
-    "timeYear": 613,
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 554,
+    "timeDay": 453,
+    "timeWeek": 554,
+    "timeMonth": 554,
+    "timeYear": 554,
     "dailyMinutesDown": {
+      "2022-06-18": 0,
       "2022-06-16": 22
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://vannerba.st",
     "icon": "https://www.vannerba.st/favicon.png",
     "slug": "vanner-basta-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 756,
     "timeMonth": 756,
     "timeYear": 756,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-18": 0
+    }
   },
   {
     "name": "openPronouns Website",
