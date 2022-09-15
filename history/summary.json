@@ -62,11 +62,11 @@
     "icon": "https://www.vannerba.st/favicon.png",
     "slug": "vanner-basta-website",
     "status": "up",
-    "uptime": "91.57%",
+    "uptime": "91.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.57%",
+    "uptimeYear": "91.58%",
     "time": 826,
     "timeDay": 878,
     "timeWeek": 910,
@@ -90,19 +90,19 @@
     "url": "https://opronouns.net",
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 127,
     "timeDay": 129,
     "timeWeek": 141,
     "timeMonth": 126,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2022-09-15": 30
+      "2022-09-15": 17
     }
   }
 ]
