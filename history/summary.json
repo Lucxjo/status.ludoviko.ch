@@ -5,16 +5,16 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "up",
-    "uptime": "95.81%",
+    "uptime": "95.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.42%",
     "time": 739,
     "timeDay": 360,
-    "timeWeek": 607,
-    "timeMonth": 1914,
-    "timeYear": 732,
+    "timeWeek": 569,
+    "timeMonth": 1912,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2023-06-21": 19,
       "2023-05-04": 611,
@@ -44,8 +44,7 @@
       "2022-10-25": 543,
       "2022-10-01": 897,
       "2022-09-30": 1440,
-      "2022-09-29": 1440,
-      "2022-09-28": 1081
+      "2022-09-29": 1440
     }
   },
   {
@@ -54,18 +53,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "46.14%",
+    "uptime": "46.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.35%",
+    "uptimeYear": "32.07%",
     "time": 573,
-    "timeDay": 355,
-    "timeWeek": 548,
-    "timeMonth": 526,
+    "timeDay": 446,
+    "timeWeek": 522,
+    "timeMonth": 515,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2023-09-27": 21,
+      "2023-09-28": 21,
+      "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
@@ -326,8 +326,7 @@
       "2022-11-05": 373,
       "2022-10-01": 888,
       "2022-09-30": 1440,
-      "2022-09-29": 1440,
-      "2022-09-28": 1081
+      "2022-09-29": 1440
     }
   },
   {
@@ -341,18 +340,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
-    "time": 421,
-    "timeDay": 125,
-    "timeWeek": 327,
-    "timeMonth": 298,
-    "timeYear": 318,
+    "time": 420,
+    "timeDay": 137,
+    "timeWeek": 307,
+    "timeMonth": 292,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2023-07-23": 812,
       "2023-01-31": 18,
       "2022-10-01": 905,
       "2022-09-30": 1440,
-      "2022-09-29": 1440,
-      "2022-09-28": 1080
+      "2022-09-29": 1440
     }
   },
   {
@@ -367,9 +365,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 123,
-    "timeDay": 23,
-    "timeWeek": 126,
-    "timeMonth": 124,
+    "timeDay": 75,
+    "timeWeek": 113,
+    "timeMonth": 125,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2023-01-23": 1019,
