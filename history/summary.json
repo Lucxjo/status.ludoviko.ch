@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.42%",
-    "time": 739,
-    "timeDay": 360,
-    "timeWeek": 569,
-    "timeMonth": 1912,
-    "timeYear": 731,
+    "uptimeYear": "95.63%",
+    "time": 738,
+    "timeDay": 379,
+    "timeWeek": 515,
+    "timeMonth": 1910,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2023-06-21": 19,
       "2023-05-04": 611,
@@ -43,8 +43,7 @@
       "2022-10-26": 706,
       "2022-10-25": 543,
       "2022-10-01": 897,
-      "2022-09-30": 1440,
-      "2022-09-29": 1440
+      "2022-09-30": 1440
     }
   },
   {
@@ -53,18 +52,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "46.05%",
+    "uptime": "45.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.07%",
+    "uptimeYear": "32.01%",
     "time": 573,
-    "timeDay": 446,
-    "timeWeek": 522,
-    "timeMonth": 515,
-    "timeYear": 572,
+    "timeDay": 586,
+    "timeWeek": 552,
+    "timeMonth": 519,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2023-09-28": 21,
+      "2023-09-29": 22,
+      "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -325,8 +325,7 @@
       "2022-11-08": 916,
       "2022-11-05": 373,
       "2022-10-01": 888,
-      "2022-09-30": 1440,
-      "2022-09-29": 1440
+      "2022-09-30": 1440
     }
   },
   {
@@ -335,22 +334,21 @@
     "icon": "https://www.vannerba.st/favicon.png",
     "slug": "vanner-basta-website",
     "status": "up",
-    "uptime": "96.63%",
+    "uptime": "96.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "99.13%",
     "time": 420,
-    "timeDay": 137,
-    "timeWeek": 307,
-    "timeMonth": 292,
+    "timeDay": 330,
+    "timeWeek": 304,
+    "timeMonth": 298,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2023-07-23": 812,
       "2023-01-31": 18,
       "2022-10-01": 905,
-      "2022-09-30": 1440,
-      "2022-09-29": 1440
+      "2022-09-30": 1440
     }
   },
   {
@@ -364,10 +362,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 123,
-    "timeDay": 75,
+    "time": 122,
+    "timeDay": 78,
     "timeWeek": 113,
-    "timeMonth": 125,
+    "timeMonth": 124,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2023-01-23": 1019,
