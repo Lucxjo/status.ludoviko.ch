@@ -5,16 +5,16 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "up",
-    "uptime": "95.83%",
+    "uptime": "95.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.90%",
+    "uptimeYear": "96.18%",
     "time": 737,
-    "timeDay": 448,
-    "timeWeek": 493,
-    "timeMonth": 1908,
-    "timeYear": 716,
+    "timeDay": 719,
+    "timeWeek": 513,
+    "timeMonth": 1960,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2023-06-21": 19,
       "2023-05-04": 611,
@@ -41,8 +41,7 @@
       "2022-11-17": 932,
       "2022-11-16": 209,
       "2022-10-26": 706,
-      "2022-10-25": 543,
-      "2022-10-01": 897
+      "2022-10-25": 543
     }
   },
   {
@@ -51,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "45.85%",
+    "uptime": "45.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "32.01%",
     "time": 573,
-    "timeDay": 355,
-    "timeWeek": 499,
-    "timeMonth": 517,
-    "timeYear": 555,
+    "timeDay": 633,
+    "timeWeek": 512,
+    "timeMonth": 522,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2023-09-30": 21,
+      "2023-10-01": 25,
+      "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -323,8 +323,7 @@
       "2022-11-11": 1300,
       "2022-11-09": 267,
       "2022-11-08": 916,
-      "2022-11-05": 373,
-      "2022-10-01": 888
+      "2022-11-05": 373
     }
   },
   {
@@ -333,20 +332,19 @@
     "icon": "https://www.vannerba.st/favicon.png",
     "slug": "vanner-basta-website",
     "status": "up",
-    "uptime": "96.65%",
+    "uptime": "96.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.67%",
     "time": 419,
-    "timeDay": 151,
-    "timeWeek": 258,
-    "timeMonth": 297,
-    "timeYear": 315,
+    "timeDay": 459,
+    "timeWeek": 237,
+    "timeMonth": 302,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2023-07-23": 812,
-      "2023-01-31": 18,
-      "2022-10-01": 905
+      "2023-01-31": 18
     }
   },
   {
@@ -361,10 +359,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 122,
-    "timeDay": 126,
-    "timeWeek": 104,
-    "timeMonth": 125,
-    "timeYear": 120,
+    "timeDay": 97,
+    "timeWeek": 91,
+    "timeMonth": 128,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2023-01-23": 1019,
       "2023-01-22": 617
