@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.82%",
     "time": 622,
-    "timeDay": 373,
-    "timeWeek": 500,
-    "timeMonth": 497,
-    "timeYear": 630,
+    "timeDay": 737,
+    "timeWeek": 546,
+    "timeMonth": 510,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2024-06-02": 66,
       "2024-06-01": 402,
@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "28.11%",
+    "uptime": "28.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -78,9 +78,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 532,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-07-21": 28,
+      "2024-07-22": 27,
+      "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
@@ -443,8 +444,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
-      "2023-07-24": 1440,
-      "2023-07-23": 1440
+      "2023-07-24": 1440
     }
   },
   {
@@ -459,13 +459,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 297,
-    "timeDay": 458,
-    "timeWeek": 377,
-    "timeMonth": 296,
-    "timeYear": 295,
-    "dailyMinutesDown": {
-      "2023-07-23": 812
-    }
+    "timeDay": 463,
+    "timeWeek": 398,
+    "timeMonth": 307,
+    "timeYear": 296,
+    "dailyMinutesDown": {}
   },
   {
     "name": "openPronouns Website",
@@ -473,18 +471,19 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "76.27%",
+    "uptime": "76.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.56%",
+    "uptimeYear": "50.29%",
     "time": 116,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-07-21": 28,
+      "2024-07-22": 27,
+      "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
