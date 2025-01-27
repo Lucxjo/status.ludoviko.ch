@@ -5,15 +5,15 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "up",
-    "uptime": "95.96%",
+    "uptime": "95.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.89%",
-    "time": 607,
-    "timeDay": 451,
-    "timeWeek": 470,
-    "timeMonth": 526,
+    "time": 606,
+    "timeDay": 400,
+    "timeWeek": 472,
+    "timeMonth": 523,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2024-06-02": 66,
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "22.52%",
+    "uptime": "22.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -74,9 +74,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 515,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-01-26": 30,
+      "2025-01-27": 30,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -439,8 +440,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   },
   {
@@ -454,10 +454,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 373,
-    "timeWeek": 309,
-    "timeMonth": 314,
+    "time": 301,
+    "timeDay": 374,
+    "timeWeek": 331,
+    "timeMonth": 312,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -467,7 +467,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "61.16%",
+    "uptime": "61.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -478,7 +478,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-26": 30,
+      "2025-01-27": 30,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -841,8 +842,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   }
 ]
