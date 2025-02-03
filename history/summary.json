@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2025-02-03": 837,
+      "2025-02-03": 845,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -447,19 +447,19 @@
     "url": "https://vannerba.st",
     "icon": "https://www.vannerba.st/favicon.png",
     "slug": "vanner-basta-website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 187,
-    "timeWeek": 245,
-    "timeMonth": 317,
+    "timeDay": 183,
+    "timeWeek": 237,
+    "timeMonth": 312,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-02-03": 0
+      "2025-02-03": 9
     }
   },
   {
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-03": 837,
+      "2025-02-03": 845,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
