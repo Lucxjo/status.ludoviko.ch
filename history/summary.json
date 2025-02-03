@@ -64,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "22.34%",
+    "uptime": "22.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2025-02-03": 30,
+      "2025-02-03": 837,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -447,9 +447,9 @@
     "url": "https://vannerba.st",
     "icon": "https://www.vannerba.st/favicon.png",
     "slug": "vanner-basta-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -458,7 +458,9 @@
     "timeWeek": 245,
     "timeMonth": 317,
     "timeYear": 297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-03": 0
+    }
   },
   {
     "name": "openPronouns Website",
@@ -466,7 +468,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "60.66%",
+    "uptime": "60.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -477,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-03": 30,
+      "2025-02-03": 837,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
