@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.97%",
     "time": 518,
-    "timeDay": 480,
-    "timeWeek": 503,
-    "timeMonth": 508,
-    "timeYear": 520,
+    "timeDay": 380,
+    "timeWeek": 468,
+    "timeMonth": 499,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2024-06-02": 66,
       "2024-06-01": 402,
@@ -62,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "21.66%",
+    "uptime": "21.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 518,
+    "time": 519,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 534,
+    "timeYear": 540,
     "dailyMinutesDown": {
-      "2025-03-05": 31,
+      "2025-03-06": 31,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -436,8 +437,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -452,9 +452,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 196,
-    "timeWeek": 352,
-    "timeMonth": 310,
+    "timeDay": 154,
+    "timeWeek": 306,
+    "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {}
   },
@@ -464,7 +464,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "58.82%",
+    "uptime": "58.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -475,7 +475,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 31,
+      "2025-03-06": 31,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -838,8 +839,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   }
 ]
