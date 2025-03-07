@@ -5,16 +5,16 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "up",
-    "uptime": "96.12%",
+    "uptime": "96.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.97%",
     "time": 518,
-    "timeDay": 380,
-    "timeWeek": 468,
-    "timeMonth": 499,
-    "timeYear": 519,
+    "timeDay": 704,
+    "timeWeek": 484,
+    "timeMonth": 511,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2024-06-02": 66,
       "2024-06-01": 402,
@@ -52,8 +52,7 @@
       "2024-03-22": 661,
       "2024-03-10": 853,
       "2024-03-09": 1417,
-      "2024-03-08": 473,
-      "2024-03-07": 799
+      "2024-03-08": 473
     }
   },
   {
@@ -62,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "21.64%",
+    "uptime": "21.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -71,9 +70,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 540,
+    "timeYear": 537,
     "dailyMinutesDown": {
-      "2025-03-06": 31,
+      "2025-03-07": 31,
+      "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -436,8 +436,7 @@
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
-      "2024-03-08": 1440,
-      "2024-03-07": 1440
+      "2024-03-08": 1440
     }
   },
   {
@@ -452,9 +451,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 154,
-    "timeWeek": 306,
-    "timeMonth": 302,
+    "timeDay": 554,
+    "timeWeek": 331,
+    "timeMonth": 317,
     "timeYear": 302,
     "dailyMinutesDown": {}
   },
@@ -464,7 +463,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "58.76%",
+    "uptime": "58.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -475,7 +474,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-06": 31,
+      "2025-03-07": 31,
+      "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -838,8 +838,7 @@
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
-      "2024-03-08": 1440,
-      "2024-03-07": 1440
+      "2024-03-08": 1440
     }
   }
 ]
