@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.78%",
+    "uptimeYear": "96.05%",
     "time": 519,
-    "timeDay": 576,
-    "timeWeek": 616,
-    "timeMonth": 532,
+    "timeDay": 466,
+    "timeWeek": 615,
+    "timeMonth": 526,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2024-06-02": 66,
@@ -46,8 +46,7 @@
       "2024-03-31": 289,
       "2024-03-28": 190,
       "2024-03-27": 1440,
-      "2024-03-26": 426,
-      "2024-03-24": 552
+      "2024-03-26": 426
     }
   },
   {
@@ -56,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "21.27%",
+    "uptime": "21.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 523,
+    "time": 521,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 562,
+    "timeYear": 584,
     "dailyMinutesDown": {
-      "2025-03-23": 35,
+      "2025-03-24": 33,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -430,8 +430,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
-      "2024-03-25": 1440,
-      "2024-03-24": 1440
+      "2024-03-25": 1440
     }
   },
   {
@@ -445,9 +444,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 541,
-    "timeWeek": 320,
+    "time": 299,
+    "timeDay": 337,
+    "timeWeek": 339,
     "timeMonth": 320,
     "timeYear": 302,
     "dailyMinutesDown": {}
@@ -458,7 +457,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "57.77%",
+    "uptime": "57.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -469,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-23": 35,
+      "2025-03-24": 33,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -832,8 +832,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
-      "2024-03-25": 1440,
-      "2024-03-24": 1440
+      "2024-03-25": 1440
     }
   }
 ]
