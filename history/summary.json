@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.15%",
+    "uptimeYear": "96.24%",
     "time": 518,
-    "timeDay": 580,
-    "timeWeek": 583,
-    "timeMonth": 525,
+    "timeDay": 579,
+    "timeWeek": 570,
+    "timeMonth": 523,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2024-06-02": 66,
@@ -44,8 +44,7 @@
       "2024-04-07": 148,
       "2024-04-01": 828,
       "2024-03-31": 289,
-      "2024-03-28": 190,
-      "2024-03-27": 1440
+      "2024-03-28": 190
     }
   },
   {
@@ -54,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "21.21%",
+    "uptime": "21.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -63,9 +62,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 594,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-03-26": 32,
+      "2025-03-27": 32,
+      "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -428,8 +428,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   },
   {
@@ -438,16 +437,16 @@
     "icon": "https://www.vannerba.st/favicon.png",
     "slug": "vanner-basta-website",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 229,
-    "timeWeek": 329,
-    "timeMonth": 318,
-    "timeYear": 302,
+    "timeDay": 296,
+    "timeWeek": 325,
+    "timeMonth": 311,
+    "timeYear": 301,
     "dailyMinutesDown": {}
   },
   {
@@ -456,18 +455,19 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "57.60%",
+    "uptime": "57.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 113,
+    "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 32,
+      "2025-03-27": 32,
+      "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -830,8 +830,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   }
 ]
