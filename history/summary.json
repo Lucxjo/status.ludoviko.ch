@@ -5,16 +5,16 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.54%",
     "time": 518,
-    "timeDay": 739,
-    "timeWeek": 535,
-    "timeMonth": 525,
-    "timeYear": 520,
+    "timeDay": 536,
+    "timeWeek": 545,
+    "timeMonth": 526,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2024-06-02": 66,
       "2024-06-01": 402,
@@ -42,8 +42,7 @@
       "2024-04-11": 517,
       "2024-04-10": 44,
       "2024-04-07": 148,
-      "2024-04-01": 828,
-      "2024-03-31": 289
+      "2024-04-01": 828
     }
   },
   {
@@ -52,18 +51,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "21.12%",
+    "uptime": "21.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 522,
+    "time": 521,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 583,
+    "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-03-30": 35,
+      "2025-03-31": 34,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -426,8 +426,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 1440
+      "2024-04-01": 1440
     }
   },
   {
@@ -441,10 +440,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 476,
-    "timeWeek": 324,
-    "timeMonth": 314,
+    "time": 301,
+    "timeDay": 251,
+    "timeWeek": 311,
+    "timeMonth": 312,
     "timeYear": 301,
     "dailyMinutesDown": {}
   },
@@ -454,10 +453,10 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "57.38%",
+    "uptime": "57.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 113,
     "timeDay": 0,
@@ -465,7 +464,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 35,
+      "2025-03-31": 34,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -828,8 +828,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 1440
+      "2024-04-01": 1440
     }
   }
 ]
