@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
     "time": 517,
-    "timeDay": 595,
-    "timeWeek": 477,
-    "timeMonth": 516,
+    "timeDay": 618,
+    "timeWeek": 501,
+    "timeMonth": 520,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2024-06-02": 66,
@@ -40,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "20.54%",
+    "uptime": "20.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 526,
+    "time": 525,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-28": 35,
+      "2025-04-29": 34,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -414,8 +415,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -424,15 +424,15 @@
     "icon": "https://www.vannerba.st/favicon.png",
     "slug": "vanner-basta-website",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 588,
-    "timeWeek": 246,
-    "timeMonth": 265,
+    "timeDay": 310,
+    "timeWeek": 265,
+    "timeMonth": 270,
     "timeYear": 298,
     "dailyMinutesDown": {}
   },
@@ -442,18 +442,19 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "55.79%",
+    "uptime": "55.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 120,
+    "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-28": 35,
+      "2025-04-29": 34,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -816,8 +817,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   }
 ]
