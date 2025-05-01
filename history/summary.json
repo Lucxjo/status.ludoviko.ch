@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.35%",
     "time": 517,
-    "timeDay": 379,
-    "timeWeek": 494,
-    "timeMonth": 508,
+    "timeDay": 453,
+    "timeWeek": 489,
+    "timeMonth": 506,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2024-06-02": 66,
@@ -29,8 +29,7 @@
       "2024-05-12": 686,
       "2024-05-11": 291,
       "2024-05-04": 742,
-      "2024-05-02": 548,
-      "2024-05-01": 1440
+      "2024-05-02": 548
     }
   },
   {
@@ -39,18 +38,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "20.50%",
+    "uptime": "20.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 525,
+    "time": 526,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-30": 33,
+      "2025-05-01": 38,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -413,8 +413,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -428,9 +427,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 176,
-    "timeWeek": 271,
+    "time": 299,
+    "timeDay": 441,
+    "timeWeek": 308,
     "timeMonth": 260,
     "timeYear": 298,
     "dailyMinutesDown": {}
@@ -441,10 +440,10 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "55.68%",
+    "uptime": "55.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 123,
     "timeDay": 0,
@@ -452,7 +451,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-30": 33,
+      "2025-05-01": 38,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -815,8 +815,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]
