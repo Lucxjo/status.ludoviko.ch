@@ -5,14 +5,14 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "up",
-    "uptime": "96.49%",
+    "uptime": "96.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 459,
-    "timeWeek": 499,
+    "timeDay": 468,
+    "timeWeek": 509,
     "timeMonth": 497,
     "timeYear": 524,
     "dailyMinutesDown": {}
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "19.56%",
+    "uptime": "19.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 519,
+    "time": 521,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 35,
+      "2025-06-20": 35,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -397,8 +398,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 509,
-    "timeWeek": 329,
-    "timeMonth": 304,
+    "timeDay": 144,
+    "timeWeek": 286,
+    "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {}
   },
@@ -425,7 +425,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "53.14%",
+    "uptime": "53.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -436,7 +436,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 35,
+      "2025-06-20": 35,
+      "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -799,8 +800,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   }
 ]
