@@ -8,7 +8,7 @@
     "uptime": "95.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.02%",
+    "uptimeMonth": "46.00%",
     "uptimeYear": "95.50%",
     "time": 517,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 507,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2025-07-14": 1404,
+      "2025-07-14": 1413,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 1404,
+      "2025-07-14": 1413,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -424,19 +424,19 @@
     "url": "https://vannerba.st",
     "icon": "https://www.vannerba.st/favicon.png",
     "slug": "vanner-basta-website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 306,
-    "timeWeek": 320,
-    "timeMonth": 351,
+    "timeDay": 287,
+    "timeWeek": 314,
+    "timeMonth": 348,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 9
     }
   },
   {
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 1404,
+      "2025-07-14": 1413,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
