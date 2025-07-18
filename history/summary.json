@@ -5,18 +5,19 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "down",
-    "uptime": "94.94%",
+    "uptime": "94.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.28%",
-    "uptimeYear": "94.94%",
+    "uptimeMonth": "36.00%",
+    "uptimeYear": "94.67%",
     "time": 517,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 503,
+    "timeMonth": 491,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-07-17": 37,
+      "2025-07-18": 37,
+      "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -44,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "19.08%",
+    "uptime": "19.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 537,
+    "time": 532,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-17": 37,
+      "2025-07-18": 37,
+      "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -418,8 +420,7 @@
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
-      "2024-07-19": 1440,
-      "2024-07-18": 1440
+      "2024-07-19": 1440
     }
   },
   {
@@ -434,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 457,
-    "timeWeek": 303,
-    "timeMonth": 347,
+    "timeDay": 276,
+    "timeWeek": 311,
+    "timeMonth": 346,
     "timeYear": 306,
     "dailyMinutesDown": {}
   },
@@ -446,7 +447,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "51.82%",
+    "uptime": "51.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -457,7 +458,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-17": 37,
+      "2025-07-18": 37,
+      "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -820,8 +822,7 @@
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
-      "2024-07-19": 1440,
-      "2024-07-18": 1440
+      "2024-07-19": 1440
     }
   }
 ]
