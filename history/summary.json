@@ -5,18 +5,19 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "down",
-    "uptime": "94.19%",
+    "uptime": "94.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.70%",
-    "uptimeYear": "92.47%",
+    "uptimeMonth": "6.40%",
+    "uptimeYear": "92.20%",
     "time": 517,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 549,
-    "timeYear": 526,
+    "timeMonth": 593,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-07-26": 36,
+      "2025-07-27": 42,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -53,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "18.92%",
+    "uptime": "18.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 546,
+    "time": 550,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 36,
+      "2025-07-27": 42,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -427,8 +429,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -442,11 +443,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 296,
-    "timeWeek": 378,
+    "time": 304,
+    "timeDay": 173,
+    "timeWeek": 336,
     "timeMonth": 368,
-    "timeYear": 308,
+    "timeYear": 307,
     "dailyMinutesDown": {}
   },
   {
@@ -455,7 +456,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "51.41%",
+    "uptime": "51.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -466,7 +467,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 36,
+      "2025-07-27": 42,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -829,8 +831,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   }
 ]
