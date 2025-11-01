@@ -5,18 +5,19 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "down",
-    "uptime": "86.77%",
+    "uptime": "86.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.90%",
-    "time": 525,
+    "uptimeYear": "65.62%",
+    "time": 526,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 523,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-10-31": 34,
+      "2025-11-01": 37,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -150,7 +151,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "17.43%",
+    "uptime": "17.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -161,7 +162,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 34,
+      "2025-11-01": 37,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -524,8 +526,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   },
   {
@@ -540,10 +541,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 173,
-    "timeWeek": 232,
-    "timeMonth": 272,
-    "timeYear": 297,
+    "timeDay": 148,
+    "timeWeek": 229,
+    "timeMonth": 247,
+    "timeYear": 296,
     "dailyMinutesDown": {}
   },
   {
@@ -552,7 +553,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "47.37%",
+    "uptime": "47.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -563,7 +564,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 34,
+      "2025-11-01": 37,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -926,8 +928,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   }
 ]
