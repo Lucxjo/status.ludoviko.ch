@@ -5,18 +5,19 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "down",
-    "uptime": "81.86%",
+    "uptime": "81.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.63%",
-    "time": 525,
+    "uptimeYear": "45.35%",
+    "time": 526,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2026-01-13": 34,
+      "2026-01-14": 39,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -224,7 +225,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "16.44%",
+    "uptime": "16.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -235,7 +236,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-13": 34,
+      "2026-01-14": 40,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -598,8 +600,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
-      "2025-01-15": 1440,
-      "2025-01-14": 1440
+      "2025-01-15": 1440
     }
   },
   {
@@ -614,9 +615,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 298,
-    "timeDay": 499,
-    "timeWeek": 312,
-    "timeMonth": 303,
+    "timeDay": 396,
+    "timeWeek": 324,
+    "timeMonth": 306,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2025-11-05": 37
@@ -628,7 +629,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "44.68%",
+    "uptime": "44.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -639,7 +640,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-13": 34,
+      "2026-01-14": 40,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -1002,8 +1004,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
-      "2025-01-15": 1440,
-      "2025-01-14": 1440
+      "2025-01-15": 1440
     }
   }
 ]
