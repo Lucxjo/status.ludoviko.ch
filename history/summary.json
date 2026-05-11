@@ -5,18 +5,19 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "down",
-    "uptime": "75.13%",
+    "uptime": "75.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.56%",
-    "time": 516,
+    "uptimeYear": "13.29%",
+    "time": 517,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 503,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2026-05-10": 69,
+      "2026-05-11": 69,
+      "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -341,7 +342,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "15.09%",
+    "uptime": "15.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -352,7 +353,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-10": 69,
+      "2026-05-11": 69,
+      "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -715,8 +717,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   },
   {
@@ -731,10 +732,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 288,
-    "timeDay": 432,
-    "timeWeek": 238,
+    "timeDay": 283,
+    "timeWeek": 252,
     "timeMonth": 269,
-    "timeYear": 284,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2025-11-05": 37
     }
@@ -745,7 +746,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "41.01%",
+    "uptime": "40.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -756,7 +757,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-10": 69,
+      "2026-05-11": 69,
+      "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -1119,8 +1121,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   }
 ]
