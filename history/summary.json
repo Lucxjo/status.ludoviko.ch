@@ -5,18 +5,19 @@
     "icon": "https://ludoviko.ch/RingRingTechSupport.ico",
     "slug": "ludoviko-website",
     "status": "down",
-    "uptime": "66.94%",
+    "uptime": "66.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 491,
+    "time": 494,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 316,
+      "2026-11-01": 345,
+      "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -379,8 +380,7 @@
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
-      "2025-11-02": 1440,
-      "2025-11-01": 1440
+      "2025-11-02": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/diru.ludoviko.ch.ico",
     "slug": "diru-discord-bot",
     "status": "down",
-    "uptime": "13.44%",
+    "uptime": "13.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 316,
+      "2026-11-01": 345,
+      "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -763,8 +764,7 @@
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
-      "2025-11-02": 1440,
-      "2025-11-01": 1440
+      "2025-11-02": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 290,
-    "timeDay": 261,
-    "timeWeek": 330,
-    "timeMonth": 326,
-    "timeYear": 290,
+    "time": 291,
+    "timeDay": 430,
+    "timeWeek": 355,
+    "timeMonth": 335,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2025-11-05": 37
     }
@@ -793,7 +793,7 @@
     "icon": "https://opronouns.net/oPronouns-logo.svg",
     "slug": "open-pronouns-website",
     "status": "down",
-    "uptime": "36.54%",
+    "uptime": "36.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -804,7 +804,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 316,
+      "2026-11-01": 345,
+      "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -1167,8 +1168,7 @@
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
-      "2025-11-02": 1440,
-      "2025-11-01": 1440
+      "2025-11-02": 1440
     }
   }
 ]
